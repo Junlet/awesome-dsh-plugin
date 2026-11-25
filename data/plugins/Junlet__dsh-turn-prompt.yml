@@ -1,0 +1,6 @@
+url: https://github.com/Junlet/dsh-turn-prompt
+name: Junlet/dsh-turn-prompt
+category: ui
+description:
+  en: 'Per-turn prompt presets beside the composer: the set you pick joins the system prompt of that turn only, every request inside the turn carries it, and the selection returns to no extra prompt when the turn ends; the transcript keeps only what the user typed.'
+  zh: '输入框旁的按轮提示词预设：选中的那套只加入该轮的系统提示词，该轮内每次请求都带着它，本轮结束自动回到不附加提示词；对话记录里只有你自己打的字。'
