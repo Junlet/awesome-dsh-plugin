@@ -1,0 +1,6 @@
+url: https://github.com/Junlet/dsh-task-board-session-link
+name: Junlet/dsh-task-board-session-link
+category: ui
+description:
+  en: 'Puts any Session on the task board: a Session row menu entry creates a card that stores the Session reference, the card badge jumps straight back into that conversation, and the card detail links, changes, or clears it. Needs the @linxin666 task board; without it the plugin stays dormant.'
+  zh: '把任意会话放进任务看板：会话行菜单多一项「添加到任务看板」，建出的卡片保存会话引用，卡片上的徽标点一下直接跳回那段对话，卡片详情里还能关联、更换或解除。需要 @linxin666 的任务看板；没装它时插件保持休眠。'
